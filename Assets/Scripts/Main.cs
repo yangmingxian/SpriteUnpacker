@@ -2,7 +2,6 @@
 
 namespace MX.TextureUnpacker
 {
-    //入口类，兼职处理App的协程
     public class Main : MonoBehaviour
     {
         void Start()

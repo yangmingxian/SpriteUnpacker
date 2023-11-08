@@ -15,7 +15,7 @@ SpriteUnpacker主要用于将打包好的Sprite图集重新解析为多个单一
  算法原作者：NRatel
  项目原链接：https://github.com/NRatel/TextureUnpacker
 
-
+![结果截图](https://github.com/yangmingxian/SpriteUnpacker/blob/main/Resources/007.png)
 ![结果截图](https://github.com/yangmingxian/SpriteUnpacker/blob/main/Resources/008.png)
 ![结果截图](https://github.com/yangmingxian/SpriteUnpacker/blob/main/Resources/009.png)
 
